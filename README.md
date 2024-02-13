@@ -1,2 +1,2 @@
 # PixelArtGenerator
-js/css/html
+Django project
